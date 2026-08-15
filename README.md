@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Suchismita Saha 👋</h1>
 
-<h3 align="center">🌐 Passionate about crafting purposeful code | 🖥️ Web Development | 🧩 Problem Solving</h3>
+<h3 align="center">💻 Software Engineer | 🌐 Web Development | 🧩 Problem Solving</h3>
 
 <p align="center">
   Building structured solutions with clean code and clear intent ✨ <br>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Problem+Solver;Lifelong+Learner;Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Frontend+Developer;Problem+Solver;Clean+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
