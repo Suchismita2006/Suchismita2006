@@ -1,7 +1,7 @@
 <div align="center">
   <a id="top"></a>
   <h1>Hi there, I'm Suchismita Saha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Wave" /></h1>
-  <h3>💻 Software Engineer &nbsp;|&nbsp; 🌐 Web Development &nbsp;|&nbsp; 🧩 Problem Solving</h3>
+  <h3>💻 Software Engineer &nbsp;|&nbsp; 🧩 Problem Solving</h3>
   
   <p align="center">
     <a href="https://github.com/Suchismita2006">
